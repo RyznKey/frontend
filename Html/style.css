@@ -48,3 +48,35 @@ table {
 }
 
 /* style */
+
+div{
+	width: 1000px;
+	margin: auto;
+	background-color: aqua;
+}
+
+.tamplate{
+	margin: 15px;
+}
+
+.judul{
+	font: bold 45px Arial, sans-serif ;
+	
+	
+}
+
+li .menu{
+	display: inline;
+	
+}
+
+li a{
+	margin-top: 4px;
+	margin-right: 10px;
+	text-decoration-line: none;
+}
+
+li a:hover{
+	color:white;
+	
+}
