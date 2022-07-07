@@ -50,9 +50,8 @@ table {
 /* style */
 
 div{
-	width: 1000px;
+	width: 985px;
 	margin: auto;
-	background-color: aqua;
 }
 
 .tamplate{
@@ -66,7 +65,7 @@ div{
 }
 
 li{
-	display: inline;	
+	display: inline;
 }
 
 li a{
@@ -77,4 +76,11 @@ li a{
 
 li a:hover{
 	color:white;
+}
+img{
+	width: 1000px;
+}
+
+.gambar{
+	width: 1000px;
 }
