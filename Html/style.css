@@ -65,17 +65,16 @@ div{
 	
 }
 
-li .menu{
-	display: inline;
-	
+li{
+	display: inline;	
 }
 
 li a{
 	margin-top: 4px;
 	margin-right: 10px;
+	text-decoration-line: none;
 }
 
 li a:hover{
 	color:white;
-	
 }
